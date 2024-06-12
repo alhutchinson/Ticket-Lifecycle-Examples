@@ -44,7 +44,7 @@ Incoming Help Desk tickets issues received from end users.
 
 </p>
 <p>
-Pretending to be a lead help desk manager, upgrading ticket status to critical and assigning to help desk agent to resolve.
+Upgraded ticket status to critical and assigned to help desk agent to resolve.
 </p>
 <br />
 
