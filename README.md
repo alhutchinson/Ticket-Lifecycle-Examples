@@ -54,7 +54,7 @@ Updating priority levels in osTicket is critical for managing workload effective
 
 </p>
 <p>
-Mobile Banking offline issue resolved.
+In osTicket updating tickets status is essential for maintaining clear communication, meeting service level commitments, optimizing workflow efficiency and fostering positive customer relationships. After reviewing this ticket I updated Mobile Banking offline issue to resolved.
 </p>
 <br />
 
