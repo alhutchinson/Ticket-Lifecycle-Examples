@@ -44,7 +44,7 @@ Understanding the life cycle stages in osTicket helps organizations streamline t
 
 </p>
 <p>
-Updating priority levels in osTicket is critical for managing workload effectively and meeting customers expectations for timely support. This ensures support teams allocate resources appropriately based on the urgency and impact of each ticket reported. Upgraded ticket status to critical and assigned to help desk agent to resolve.
+Updating priority levels in osTicket is critical for managing workload effectively and meeting customers expectations for timely support. This ensures support teams allocate resources appropriately based on the urgency and impact of each ticket reported. After reviewing this issue I Upgraded ticket status to critical.
 </p>
 <br />
 
